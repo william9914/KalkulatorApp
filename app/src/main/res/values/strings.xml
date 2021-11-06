@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">CalculatorAppTest</string>
+    <string name="btn_OperateC">C</string>
+    <string name="btn_OperateDivision">/</string>
+    <string name="btn_OperandDot">.</string>
+    <string name="btn_OperateAnswers">=</string>
+    <string name="btn_OperateAddition">+</string>
+    <string name="btn_OperateMultiplication">X</string>
+    <string name="btn_OperateSubtraction">-</string>
+    <string name="btn_OperatePower">^</string>
+    <string name="btn_Operand0">0</string>
+    <string name="btn_Operand1">1</string>
+    <string name="btn_Operand2">2</string>
+    <string name="btn_Operand3">3</string>
+    <string name="btn_Operand4">4</string>
+    <string name="btn_Operand5">5</string>
+    <string name="btn_Operand6">6</string>
+    <string name="btn_Operand7">7</string>
+    <string name="btn_Operand8">8</string>
+    <string name="btn_Operand9">9</string>
+    <string name="btn_OperandBracket">()</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
